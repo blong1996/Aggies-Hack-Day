@@ -1,5 +1,5 @@
 # Aggies Hack Day
-This repository is for the Aggies Hack Day event hosted August 2, 2016 on campus at NC A &amp; T SU.
+This repository is for the Aggies Hack Day event hosted April 2, 2016 on campus at NC A &amp; T SU.
 
 # Participants:
 This is where you will find the instructions to both rounds of the Programming Contest, as well as instructions for the projects being worked on during this event.
